@@ -5,8 +5,10 @@ Trabalho 2 da disciplica de Estrutura de Dados 1 da Universidade Federal do Esp�
 Para compactar e descompactar um arquivo é necessário que este esteja na pasta do código, ou então que o caminho não contenha outros '.', pois a mudança de nome é feita com base apenas em 'nome.extensão'.
 
 Compilando:
+* make
 
-* Compactar: ./Compacta nomeDoArquivo.ext
-* Descompactar: ./Descompacta nomeDoArquivo.ext
+Rodar o programa:
+* Para compactar: ./Compacta nomeDoArquivo.ext
+* Para descompactar: ./Descompacta nomeDoArquivo.ext
 
 Importante destacar que apenas um arquivo compactado por este programa consegue ser descompactado pelo mesmo.
